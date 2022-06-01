@@ -68,3 +68,5 @@ We can infer that the P-value is 0.00000003405. From this t-table, we can reject
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The difference between the two categories we had were different. c39 had a higher mean than c52 did. The   cultivation method were found to have a numerical difference of the Vitamin C produced in the cabbages made. We rejected the null hypothesis after seeing the results of the T test.  c39 had a mean of 51.5 while c54 had a mean of 64.5.
